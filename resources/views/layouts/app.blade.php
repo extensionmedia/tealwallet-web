@@ -15,7 +15,7 @@
 
     <script src="{{ asset('js/notify.min.js') }}" defer></script>
     
-    <title>{{config("app.name")}}</title>
+    <title>{{config("app.name")}} test</title>
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{Storage :: url ('favicon/apple-icon-57x57.png')}}">
     <link rel="apple-touch-icon" sizes="60x60" href="{{ asset('storage/favicon/apple-icon-60x60.png') }}">

@@ -411,7 +411,7 @@ import Chart from 'chart.js';
 import { timers } from 'jquery';
 import { split } from 'lodash';
 var config = {
-    type : 'line',
+    type : 'bar',
     caption :   '',
     labels : [],
     data : [],
